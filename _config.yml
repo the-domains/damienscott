@@ -1,29 +1,41 @@
-name: damienscott
-favicon: null
-layout_spectrum: 0.446862718090415
-typography_spectrum: 0.02745560836046934
 title: Damien Scott
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5
+  brandStrength: 0.4462366
+  lightness: 0.125
+  brandColors:
+    - '#323949'
+    - '#807D75'
+    - '#EAC8AD'
+    - '#C5AA97'
+    - '#FFF1CF'
+  rhythmicContrast: 0.5350932353176177
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: damienscott
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.056576757691800594
-  lightness: 0.125
-  saturation: 0.5
-  rhythmicContrast: 0.5350932353176177
-purpose: []
+typography_spectrum: 0.02745560836046934
+layout_spectrum: 0.446862718090415
